@@ -29,4 +29,23 @@ In the search bar type "App ID", click the instance from search result, it will 
 <img width="699" alt="2" src="https://user-images.githubusercontent.com/16270682/134592832-08d6f08f-b1ad-43dd-9d5f-438e24cbf924.PNG">
 
 
+## Step 2: Download Node.js Sample single page Web Application
 
+From overview, click on Download sample and select Node.js
+
+<img width="639" alt="3" src="https://user-images.githubusercontent.com/16270682/134594513-81d8e849-a270-4d0b-ba17-a96745f0f754.PNG">
+
+
+Save the zip file named "SampleApp-Node" and extract it on your desktop or any other path that you prefer
+
+
+## Step 3: Run the Sample application locally 
+
+To confirm your local Host URI was added to the list of allowed redirect URIs.  a Manage Authentication > Authentication Settings, http://localhost:3000/
+
+<img width="654" alt="4" src="https://user-images.githubusercontent.com/16270682/134594819-ac4ae6e7-7cc7-4b71-b171-f7455ba93a1f.PNG">
+
+Open terminal/ cmd/ windows PowerShell and navigate to the sample folder. Run the following commands to build and start the application 
+
+  npm install
+  npm start
