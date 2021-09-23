@@ -47,6 +47,11 @@ To confirm your local Host URI was added to the list of allowed redirect URIs.  
 
 Open terminal/ cmd/ windows PowerShell and navigate to the sample folder. Run the following commands to build and start the application 
 
+#### Build:
+
     npm install
+    
+#### Run app:
+
     npm start
 
