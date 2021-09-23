@@ -29,7 +29,7 @@ In the search bar type "App ID", click the instance from search result, it will 
 <img width="699" alt="2" src="https://user-images.githubusercontent.com/16270682/134592832-08d6f08f-b1ad-43dd-9d5f-438e24cbf924.PNG">
 
 
-## Step 2: Download Node.js Sample single page Web Application
+## Step 3: Download Node.js Sample single page Web Application
 
 From overview, click on Download sample and select Node.js
 
@@ -39,7 +39,7 @@ From overview, click on Download sample and select Node.js
 Save the zip file named "SampleApp-Node" and extract it on your desktop or any other path that you prefer
 
 
-## Step 3: Run the Sample application locally 
+## Step 4: Run the Sample application locally 
 
 To confirm your local Host URI was added to the list of allowed redirect URIs.  a Manage Authentication > Authentication Settings, http://localhost:3000/
 
@@ -55,3 +55,18 @@ Open terminal/ cmd/ windows PowerShell and navigate to the sample folder. Run th
 
     npm start
 
+## Step 5: Test User Authentication
+
+## Step 6: Customize Login Page
+
+## Workshop Resources
+
+- Login/Sign Up for IBM Cloud: <Link>
+
+- Hands-On Guide: <Link>
+
+- Slides: <Link>
+
+- Workshop Replay: <Link>
+
+## Done with the workshop? Here are some things you can try further 
