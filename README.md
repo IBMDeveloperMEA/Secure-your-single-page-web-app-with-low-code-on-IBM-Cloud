@@ -61,12 +61,11 @@ Open terminal/ cmd/ windows PowerShell and navigate to the sample folder. Run th
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: <Link>
+- Login/Sign Up for IBM Cloud: https://ibm.biz/appsecurity
 
-- Hands-On Guide: <Link>
-
-- Slides: <Link>
-
-- Workshop Replay: <Link>
+- Workshop Replay: https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-1 
 
 ## Done with the workshop? Here are some things you can try further 
+
+ configure social identity providers to set up a single sign-on experience for your app : https://cloud.ibm.com/docs/appid?topic=appid-social&interface=ui
+ 
