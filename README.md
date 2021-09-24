@@ -91,3 +91,16 @@ You can customize your login page by selecting "Login Customization" from your A
 
  configure social identity providers to set up a single sign-on experience for your app : https://cloud.ibm.com/docs/appid?topic=appid-social&interface=ui
  
+
+## Links to the next sessions in "Journey to Low Code/ No Code Application Security"
+
+
+
+### 28th September- 6PM-8PM (GST) 
+- Easily Secure your Spring boot app with Low code/No Code
+- https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-2
+
+
+### 30th September- 6PM-8PM (GST) 
+- Securely Manage access to your Applications Sensitive Data on IBM Cloud
+- https://www.crowdcast.io/e/journey-to-low-code-no-code-app-security-3
