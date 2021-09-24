@@ -54,10 +54,32 @@ Open terminal/ cmd/ windows PowerShell and navigate to the sample folder. Run th
 #### Run app:
 
     npm start
+    
+<img width="602" alt="5" src="https://user-images.githubusercontent.com/16270682/134662098-bc04791f-3abc-42b8-910b-3afc9b298ab1.PNG">
+
 
 ## Step 5: Test User Authentication
 
-## Step 6: Customize Login Page
+Open your application in browser by pasting your localhost URi
+
+<img width="530" alt="6" src="https://user-images.githubusercontent.com/16270682/134662124-5102c657-b2b2-4854-b679-94256b891d3f.PNG">
+
+
+Click on Login and you will be redirected to login poage.
+
+<img width="596" alt="7" src="https://user-images.githubusercontent.com/16270682/134662146-f6c16484-ac88-4eb7-a0d5-a51dd86d4d09.PNG">
+
+
+Here you can see your application has Authentication process, where you can either signu/signin using Social Credentials or your email address. Enter your credentials and login to your test app
+
+<img width="445" alt="8" src="https://user-images.githubusercontent.com/16270682/134662200-15f2afd8-5a87-4d60-bb9a-0c2b2c012bea.PNG">
+
+
+## Step 6 (Optional): Customize Login Page
+
+You can customize your login page by selecting "Login Customization" from your App ID Dashboard 
+
+<img width="779" alt="9" src="https://user-images.githubusercontent.com/16270682/134662223-21e0db4c-05a4-4a86-9f35-21f84f3f1bee.PNG">
 
 ## Workshop Resources
 
